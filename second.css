@@ -1,0 +1,63 @@
+[12:06 PM] HALLI, SAMPADA
+body{
+
+   background-color:#f1f1f1;
+
+}
+ 
+ 
+li {
+
+   display:inline-block;
+
+   padding : 20px;
+
+}
+ 
+header{
+
+    text-align : center;
+
+    background-color:#6a1b9a;
+
+    color : #ffffff;
+
+    padding-top:10px;
+
+}
+ 
+h1{
+
+   color : #ffffff;
+
+}
+ 
+a{
+
+   color : #ffffff;
+
+}
+ 
+article {
+
+    background-color : white;
+
+    margin : 50px;
+
+    height : 300px;
+
+    padding : 10px;
+
+}
+ 
+footer {
+
+    text-align : center;
+
+    background-color:#6a1b9a;
+
+    color : #ffffff;
+
+    height : 80px;
+
+    padding-top:40px;
