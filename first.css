@@ -1,0 +1,30 @@
+header {
+	text-align : center;
+	padding: 10px;
+}
+
+
+header img {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+#myself{
+   text-align : center;
+}
+
+section {
+   margin:20px;
+   text-align : center;
+   margin-bottom : 50px;
+}
+
+.project {
+   padding : 10px;
+}
+
+footer{
+   text-align : center;
+}
